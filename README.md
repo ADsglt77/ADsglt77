@@ -71,3 +71,9 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ADsglt77&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADsglt77&layout=compact&hide_border=true&cache_seconds=1800" />
 </p>
+
+## 🎧 Spotify
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=adrien.segalat&count=5&width=800" />
+</p>
